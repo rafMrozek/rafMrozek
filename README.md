@@ -5,7 +5,7 @@
 🌱 I’m currently learning Java, SQL/no SQL, Spring Boot, Maven, Hibernate, REST API.
 
 💞️ I'd describe myself as:
-- desing sense
+- design sense
 - kind-hearted
 - hard-working
 - ambitious
